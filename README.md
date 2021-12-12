@@ -1,7 +1,8 @@
 # AHP
 ==================
-*Analytic hierarchy process
-*Метод анализа иерархий Томаса Саати
+**Analytic hierarchy process
+
+**Метод анализа иерархий Томаса Саати
 
 **Язык програмирования Python.
 **Среда разработки Pycharm
